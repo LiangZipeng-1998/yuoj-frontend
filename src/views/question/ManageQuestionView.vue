@@ -28,6 +28,7 @@ import {
   Page_Question_,
   Question,
   QuestionControllerService,
+  QuestionQueryRequest,
 } from "../../../generated";
 import message from "@arco-design/web-vue/es/message";
 import * as querystring from "querystring";
